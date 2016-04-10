@@ -1,0 +1,5 @@
+Caisis is an open source web application designed to bridge the gap between Clinical Research and Clinical Practice. The application was originally designed to track data for Urologic cancer, but now has expanded to track a variety cancers and other medical conditions. The project was initiated with the goal of improving data quality and accuracy while reducing time and effort for clinicians and support staff. The Caisis team has openly embraced the open source model. As such, the application and all of its source code is freely available for download under the General Public License (GPL), an open source license approved by the Open Source Initiative.
+
+The current project team is comprised of a diverse group of participants from major medical institutions across the US and abroad. These team members are working to build a community of developers and contributors from universities, hospitals, and organizations all over the world. A major goal of the Caisis project is to share the work of the core project team, so other organizations can benefit from the experience gained addressing common clinical and research issues.
+
+
